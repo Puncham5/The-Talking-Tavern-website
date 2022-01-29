@@ -1,7 +1,5 @@
             body {
-                background-image: url
-                ('https://cutewallpaper.org/21/medieval-tavern-wallpaper/Medieval-Interior-Tools-Pack-by-cagricengiz-in-Props-UE4-.jpg');
-               
+                background-image: url('https://cutewallpaper.org/21/medieval-tavern-wallpaper/Medieval-Interior-Tools-Pack-by-cagricengiz-in-Props-UE4-.jpg');
             }
             .container {
                 display: flex;
