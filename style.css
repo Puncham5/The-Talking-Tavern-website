@@ -54,7 +54,7 @@
               z-index: 1;
               top: 0;
               left: 0;
-              background-color: #FFF;
+              background-color: rgb(66, 38, 1);
               overflow-x: hidden;
               padding-top: 16px;
             }
